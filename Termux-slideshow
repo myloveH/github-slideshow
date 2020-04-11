@@ -1,0 +1,19 @@
+Pkg  update && pkg upgrade  y
+
+Pkg install git  y
+
+Pkg install wget and proot
+
+Git clone https://github.com/myloveH/github-slideshow/termux-slidesow.git
+
+ls
+
+Cd termux-slideshow
+
+ls
+
+Chmod +x slideshow.sh
+
+./slideshow.sh
+
+./start-slideshow.sh
